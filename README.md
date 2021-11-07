@@ -18,7 +18,7 @@
 
 
 
-### Clique no Botão abaixo para ver a página.
+### Clique no botão abaixo para ver a página.
 
 [![](https://img.shields.io/badge/-%20Acessar%20Projeto--FAQ%20%F0%9F%93%83-brightgreen)](https://riquecelo.github.io/Projeto-FAQ/)
  
