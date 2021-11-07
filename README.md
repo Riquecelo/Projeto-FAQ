@@ -13,6 +13,9 @@
 |![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)|Utilizar HTML mais semântico|
 |![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)|Fazer posicionamento e estilização com CSS|
 |![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)|Aplicar interação na página com JavaScript|
+|Adaptação de tela |<img src="https://github.com/Riquecelo/Projeto-FAQ/blob/main/src/img/show-adapta-tela-FAQ.gif" width="500" heigth="200">|
+|Responsividade para mobile|<img src="https://github.com/Riquecelo/Projeto-FAQ/blob/main/src/img/show-responsivo-projeto-FAQ.gif" width="500" heigth="200">|
+
 
 
 ### Clique no Botão abaixo para ver a página.
