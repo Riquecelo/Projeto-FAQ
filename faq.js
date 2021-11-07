@@ -19,10 +19,12 @@ itemsPerguntasRespostas.forEach(function(item){
             //abrir resposta atual 
             item.classList.add('ativo')
         }
-       
-
-    // se a pergunta estiver ativa
-        //desativar[remover a classe ativa]
+        // se a pergunta estiver ativa
+        else{
+            //desativar[remover a classe ativa]
+            item.classList.remove('ativo')
+        }
+    
     })
 })
 
